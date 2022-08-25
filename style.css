@@ -1,3 +1,12 @@
 body {
-    background: blue;
+    background: grey;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+  
+   header {
+     background-image: image(
+      src= https://images.app.goo.gl/t1tzA6hmTbKWQg9B7
+      alt= forest photo
+     );
+   }
