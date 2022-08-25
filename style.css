@@ -1,12 +1,13 @@
 body {
-    background: grey;
+    background: rgba(231, 226, 226, 0.877);
+    
     text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+    font-family:'Courier New', Courier, monospace
+}
   
-   header {
-     background-image: image(
-      src= https://images.app.goo.gl/t1tzA6hmTbKWQg9B7
-      alt= forest photo
-     );
+   h1 {
+    color:black;
+   }
+   p {
+    color:rgb(67, 68, 5)
    }
